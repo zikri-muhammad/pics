@@ -1,0 +1,10 @@
+.serch-bar {
+   border: 1px solid lightgray;
+   border-radius: 5px;
+   padding: 10px;
+}
+
+.serch-bar form {
+   display: flex;
+   flex-direction: column;
+}
